@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to demonstrate what I have learned so far from The Odin Project's Foundations lessons. The current focus is on the HTML knowledge I have acquired so far. Let's cross our fingers I can build this recipe website!
